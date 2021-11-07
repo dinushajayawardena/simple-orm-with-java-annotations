@@ -1,4 +1,4 @@
-# Simple ORM - Object–relational mapping
+# Simple ORM(Object–relational mapping) with Java Annotations
 
 ## Version
 1.0.0
